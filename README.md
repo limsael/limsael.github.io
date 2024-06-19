@@ -44,7 +44,7 @@ Sizing the container, update the font size of some elements.
 
 ### Useful resources
 
-- [Google Fonts](https://https://fonts.google.com/) - This helped me for choosing the font.
+- [Google Fonts](https://fonts.google.com/) - This helped me for choosing the font.
 - [Modzilla Developper Network](https://developer.mozilla.org/en-US/) - This is an amazing article which helped me finally understand flexbox. I'd recommend it to anyone still learning this concept.
 
 ## Author
